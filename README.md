@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @ado37
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there, I'm Abdelaal laal Mustafa! 👋
 
-<!---
-ado37/ado37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Content Creator and Freelance Writer from Cairo, Egypt. I am passionate about technology, development, and self-improvement.
+
+- 🔭 I’m currently working on **growing my YouTube channel and creating tech content.**
+- 🌱 I’m currently learning **new development tools and video editing techniques.**
+- 👯 I’m looking to collaborate on **creative writing and open-source projects.**
+- ⚡ Fun fact: **I strive to gain a new experience every single day.**
+- 😄 Pronouns: **He/Him**
